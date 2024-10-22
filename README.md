@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=rect&color=0:071734,100:0E305B&section=header&text=Ivvi's%20Github🌠&desc=BackEnd/AI%20Developer&fontColor=ebebeb&fontAlign=52&fontAlignY=45&fontSize=50&animation=twinkling&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?height=200&type=rect&color=0:071734,100:0E305B&section=header&text=Ivvi's%20Github🌠&desc=Web%20Developer&fontColor=ebebeb&fontAlign=52&fontAlignY=45&fontSize=50&animation=twinkling&descAlignY=68)
 
 ## Skills
 
-BackEnd
+Backend
 <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -13,7 +13,7 @@ BackEnd
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 
-FrontEnd
+Frontend
 <br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
@@ -29,7 +29,7 @@ collaboration
 
 
 
-## Algorithm
+## Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ivvi_a)](https://solved.ac/ivvi_a)
 
 <br/>

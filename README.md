@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=rect&color=0:071734,100:0E305B&section=header&text=Ivvi's%20Github🌠&desc=Web%20Developer&fontColor=ebebeb&fontAlign=52&fontAlignY=45&fontSize=50&animation=twinkling&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?height=200&type=rect&color=0:071734,100:0E305B&section=header&text=Yeonju's%20Github🌠&desc=Web%20Developer&fontColor=ebebeb&fontAlign=52&fontAlignY=45&fontSize=50&animation=twinkling&descAlignY=68)
 
 ## Skills
 

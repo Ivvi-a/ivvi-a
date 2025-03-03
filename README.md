@@ -1,8 +1,9 @@
 <!--![header](https://capsule-render.vercel.app/api?height=130&type=rect&color=0:071734,100:0E305B&section=header&text=Yeonju's%20Github🌠&desc=Web%20Developer&fontColor=ebebeb&fontAlign=52&fontAlignY=45&fontSize=39&animation=twinkling&descAlignY=77)-->
 ## 👋 Hi there!
+<p>안녕하세요! 웹 개발자 조연주입니다 :)</p>
 <p>I'm Yeonju, <b>web developer</b>😋 from South Korea.</p>
 
-### ⭐ Things I code with
+### ⭐ 기술 스택 Things I code with
 
 | Programming Languages | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"> |
 |----|---|

@@ -1,7 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?height=130&type=rect&color=0:071734,100:0E305B&section=header&text=Yeonju's%20Github🌠&desc=Web%20Developer&fontColor=ebebeb&fontAlign=52&fontAlignY=45&fontSize=39&animation=twinkling&descAlignY=77)-->
 ## 👋 Hi there!
-<p>안녕하세요! 웹 개발자 조연주입니다 :)</p>
-<p>I'm Yeonju, <b>web developer</b>😋 from South Korea.</p>
+<p>안녕하세요! 개발자 조연주입니다 :)</p>
 
 ### ⭐ 기술 스택 Things I code with
 
